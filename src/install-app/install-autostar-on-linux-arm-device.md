@@ -19,7 +19,7 @@ description: Install Autostar on Linux ARM Device using Pi-Apps
 
 Fortunately, Autostar is very easy to install on your Linux ARM Device in just two steps.
 1. Install Pi-Apps - the best app installer for Linux ARM Device.
-2. Use Pi-Apps to install Autostar.
+2. Use Pi-Apps to install Autostareeeeeeeeeeeeee.
 </div>
 <div class="simple-install-content content">
 
